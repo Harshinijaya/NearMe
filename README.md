@@ -172,14 +172,16 @@ sathukodal.html
   </p>
   </body>
 </html>
+```
 
-![alt text](1.png)
+## OUTPUT
+
+![alt text](map.html.png)
 ![alt text](ars.png)
 ![alt text](grt.png)
 ![alt text](mettur.png)
 ![alt text](rani.png)
 ![alt text](sathukodal.png)
-
 
 
 ## RESULT
